@@ -1,3 +1,3 @@
 # multilingual-react-app
 
-![websites](https://i.postimg.cc/FHZb01Xx/Screenshot-20210523-120112.jpg)
+![websites](https://i.postimg.cc/dQhSkdqf/Screenshot-20210524-224842-1.jpg)
