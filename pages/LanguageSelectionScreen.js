@@ -30,7 +30,7 @@ const LanguageSelectionScreen = ({navigation}) => {
         <Image
           source={{
             uri:
-              'https://raw.githubusercontent.com/AboutReact/sampleresource/master/language.png',
+            'https://i.postimg.cc/zXZHGhPc/business-translation-multi-language-logo-png-transparent-png-translation-png-920-960.jpg',
           }}
           style={styles.imageStyle}
         />
@@ -74,7 +74,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: 10,
-    backgroundColor:"#F38F8F"
+    backgroundColor:"white"
+    
   },
   headingStyle: {
     color: '#191919',
@@ -83,8 +84,8 @@ const styles = StyleSheet.create({
     
   },
   imageStyle: {
-    width: 70,
-    height: 70,
+    width: 90,
+    height: 90,
     marginTop: 30,
   },
   elementContainer: {
